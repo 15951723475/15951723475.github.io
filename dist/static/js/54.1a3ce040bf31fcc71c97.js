@@ -1,0 +1,2 @@
+webpackJsonp([54],{"6is1":function(n,e){},IaCc:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});t("Nf9k");var i={render:function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"biaozhu danwenjian"})},staticRenderFns:[]};var a=t("VU/8")({name:"biaoshi",data:function(){return{}},components:{},methods:{},computed:{},mounted:function(){}},i,!1,function(n){t("6is1")},null,null);e.default=a.exports}});
+//# sourceMappingURL=54.1a3ce040bf31fcc71c97.js.map
